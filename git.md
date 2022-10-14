@@ -1,6 +1,9 @@
-i have learned about git commit 
-git add . - adding everything 
-git push 
+i have learned about the basic concept of Git such as ;
+        git commit 
+        git add . - adding everything 
+        git push 
+        git log 
 
-am not confused in any of the content so far 
+am learning progressively so i hope to comprehend the technical part of Git Hub
+
 
